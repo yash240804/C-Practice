@@ -10,3 +10,8 @@
 
 6)Area Of Rectangle.
 
+7)Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop).
+
+8)Take integer inputs till the user enters 0 and print the sum of all numbers user input but for every input it add every number from zero till that number (HINT: while loop + for loop).
+
+
