@@ -16,3 +16,7 @@
 
 9)Reverse A String Using String.h Function.
 
+10)Fibonacci series using For loop.
+
+11)Factorial of a number.
+
