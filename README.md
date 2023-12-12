@@ -21,3 +21,5 @@
 11)Factorial of a number.
 
 12)Avg. of mark of students.
+
+13)Sum of n numbers.
