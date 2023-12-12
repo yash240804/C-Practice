@@ -5,7 +5,7 @@ int main()
     int n, rem, div, sum = 0;
     printf("Enter the no. you want to sum of its digit\n");
     scanf("%d", &n);
-    while (n != 0)
+    while (n > 0)
     {
         rem = n % 10;
         sum += rem;
