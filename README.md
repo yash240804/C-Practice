@@ -23,3 +23,15 @@
 12)Avg. of mark of students.
 
 13)Sum of n numbers.
+
+14)Read a no. from user and output its sum of all digits.
+
+15)Palindrome No.
+
+16)Write a menu driven program in C using functions to implement the following string operations without using the standard library functions, string length, string copy, string reverse, string concatenate, string compare, string palindrome, case change
+
+17)Various Star Pattern.
+
+18)Armstrong No.
+
+19)Binary Search.
